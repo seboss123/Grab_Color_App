@@ -1,0 +1,2 @@
+rootProject.name='Grab Color App'
+include ':app'
