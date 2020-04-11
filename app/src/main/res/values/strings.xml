@@ -9,4 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="grab_color">Grab Color</string>
+    <string name="change_color_of_buttons">Change Color Of Buttons</string>
+    <string name="button">Button</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
 </resources>
